@@ -1,16 +1,27 @@
-# Discover Italy - Proiect Atestat Profesional
+# Proiect Atestat la Informatică - Italia
 
-Acesta este proiectul realizat pentru **Atestatul la Informatică**, reprezentând un blog de travel interactiv dedicat Italiei. Proiectul demonstrează capacitatea de a structura o platformă multi-pagină complexă, utilizând exclusiv tehnologii web de bază.
+Acest proiect a fost creat ca lucrare de atestat pentru finalizarea studiilor liceale. Site-ul este un ghid turistic interactiv dedicat Italiei, structurat pe mai multe pagini, care îmbină prezentarea de informații cu elemente de colectare a feedback-ului de la utilizatori.
 
-### ✨ Funcționalități
-* **Ghid Turistic:** Secțiuni structurate cu informații despre regiunile și cultura Italiei.
-* **Galerie Media:** Organizarea vizuală a obiectivelor turistice.
-* **Navigare Externă:** Integrare cu platforme de activități turistice (link-uri către ghiduri externe).
-* **Chestionar HTML:** Un formular de evaluare a cunoștințelor, construit integral prin elemente de tip `form`, demonstrând utilizarea corectă a input-urilor HTML.
+### 🗺️ Structura Site-ului
+Proiectul este împărțit în secțiuni clare pentru a ușura navigarea:
 
-### 🛠️ Tehnologii Utilizate
-* **HTML:** Pentru întreaga structură a site-ului și logică a formularelor.
-* **CSS:** Pentru design, layout-ul blogului și stilizarea componentelor vizuale.
+* **Acasă (Home):** O introducere vizuală despre Italia, folosind un design modern cu imagini pe tot ecranul.
+* **Despre (Informații):** Detalii despre istoria, cultura și geografia țării.
+* **Orașe Principale:** Secțiuni individuale dedicate pentru Roma, Milano, Napoli, Torino și Palermo, fiecare cu specificul său.
+* **Galerie și Activități:** O prezentare a locurilor turistice, incluzând link-uri către activități și ghiduri externe.
+* **Chestionar Feedback:** O pagină dedicată interacțiunii cu vizitatorul, unde acesta poate completa un formular.
+
+### 📝 Detalii despre Chestionar
+Chestionarul a fost realizat integral în HTML și cuprinde:
+* Câmpuri pentru date personale (nume, email, vârstă).
+* Întrebări cu selecție unică (Radio Buttons) despre utilitatea site-ului.
+* Selecție multiplă (Checkboxes) pentru orașele care au atras atenția vizitatorului.
+* Câmp de text liber (Textarea) pentru sugestii sau întrebări.
+
+### 🛠️ Tehnologii și Design
+* **HTML:** Utilizat pentru structurarea întregului conținut și a formularelor.
+* **CSS:** Folosit pentru stilizarea avansată (poziționare fixă a meniului, efecte de transparență, fundaluri de tip imagine).
+* **Interactivitate:** Navigare fluidă (Smooth Scrolling) între secțiunile paginii prin ancore.
 
 ### 📚 Context
 Proiectul a servit drept examen final pentru obținerea **atestatului de competențe profesionale în informatică**, fiind o dovadă a abilităților de organizare a informației și design web static.
